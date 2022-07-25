@@ -1,0 +1,22 @@
+{
+  "dir": "ltr",
+  "lang": "en",
+  "name": "DigitalOcean: Cloud computing designed for developers",
+  "scope": "/",
+  "display": "browser",
+  "start_url": "/",
+  "short_name": "DigitalOcean",
+  "theme_color": "transparent",
+  "description": "DigitalOcean is a simple and robust cloud computing platform, designed for developers.",
+  "orientation": "any",
+  "background_color": "transparent",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "http://assets.digitalocean.com/favicon.ico",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
